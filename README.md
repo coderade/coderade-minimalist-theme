@@ -1,7 +1,7 @@
 
 # coderade-minimalist-theme
 
-This project contains the source code for the theme used on my [blog].
+This project contains the source code for the theme used on my [blog](https://coderade.github.io).
 
 This theme is based on the on the Hugo theme 
 [hugo-minimalist-theme](https://github.com/digitalcraftsman/hugo-minimalist-theme) that by the way is based
