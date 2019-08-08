@@ -4,12 +4,12 @@
 This project contains the source code for the theme used on my [blog](https://coderade.github.io).
 
 This theme is based on the on the Hugo theme 
-[hugo-minimalist-theme](https://github.com/digitalcraftsman/hugo-minimalist-theme) that by the way is based
+[hugo-minimalist-theme](https://github.com/digitalcraftsman/hugo-minimalist-theme) that by the way is based on the
 [Minimalistic](https://github.com/rriegger/MinimalisticBlogTheme)
 Ghost theme made by [Raphael Riegger](https://github.com/rriegger) am.
 
 Noteworthy features of this Hugo theme are the integration of a comment-system
-powered by Disqus, easy localization (l10n), support for RSS feeds, tags and categories,
+powered by Disqus, easy localization (l10n), Google Analytics, support for RSS feeds, tags and categories,
 syntax highlighting for source code and sharing options in the blog posts.
 
 ![](images/screenshot.png)
