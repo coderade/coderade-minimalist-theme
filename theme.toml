@@ -1,6 +1,6 @@
-name = "Minimalist"
+name = "Minimalist - Valde.ci"
 license = "Apache License 2.0"
-licenselink = "https://github.com/digitalcraftsman/hugo-minimalist-theme/blob/master/LICENSE.md"
+licenselink = "https://raw.githubusercontent.com/coderade/coderade-minimalist-theme/master/LICENSE.md"
 description = "A minimalistic theme with the focus on blogging."
 homepage = "https://github.com/digitalcraftsman"
 tags = ["disqus", "google analytics", "responsive", "syntax highlighting", "l10n"]
@@ -8,11 +8,11 @@ features = []
 min_version = 0.20
 
 [author]
+  name = "Valdeci Gomes" 
+  homepage = "https://valde.ci"
+
+# If porting an existing theme
+[author]
   name = "Digitalcraftsman"
   homepage = "https://github.com/digitalcraftsman"
 
-# If porting an existing theme
-[original]
-  name = "Raphael Riegger"
-  homepage = "http://rriegger.com/"
-  repo = "https://github.com/rriegger/MinimalisticBlogTheme"
