@@ -11,10 +11,10 @@
         <meta property="og:locale" content="en_US">
         <meta property="og:url" content="{{ .Permalink }}">
         <meta property="og:title" content="{{ if .IsHome}}Home - {{ .Site.Title }}{{else}}{{ .Page.Title }}{{end}}">
-        <meta property="og:site_name" content="{{ .Site.BaseURL }}">
+        <meta property="og:site_name" content="{{ .Site.Params.baseurl }}">
         <meta property="og:type" content="article" />
         <meta property="og:description" content="{{ if .IsPage}}{{.Params.description}}{{else}}{{ .Site.Title }} - Homepage{{end}}">
-        <meta property="og:image" content="{{ .Site.BaseURL }}{{if .Params.meta_image}}{{.Params.meta_image}}{{else}}img/puralsight-bg.jpg{{end}}">
+        <meta property="og:image" content="{{ .Site.Params.baseurl }}{{if .Params.meta_image}}{{.Params.meta_image}}{{else}}img/puralsight-bg.jpg{{end}}">
         <meta property="og:image:type" content="image/jpeg">
         <meta property="og:image:width" content="800">
         <meta property="og:image:height" content="600">
