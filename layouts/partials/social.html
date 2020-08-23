@@ -34,6 +34,10 @@
 <li><a href="//stackexchange.com/users/{{.}}?tab=accounts" class="icon-stackexchange" target="_blank" title="stackExchange"></a></li>
 {{ end }}
 
+{{ with .Site.Social.goodreads }}
+<li><a href="//www.goodreads.com/{{.}}" class="fab fa-goodreads" target="_blank" title="goodreads"></a></li>
+{{ end }}
+
 
 
 {{ with .Site.Social.gplus }}
