@@ -11,8 +11,4 @@ min_version = 0.20
   name = "Valdeci Gomes" 
   homepage = "https://valde.ci"
 
-# If porting an existing theme
-[author]
-  name = "Digitalcraftsman"
-  homepage = "https://github.com/digitalcraftsman"
 
